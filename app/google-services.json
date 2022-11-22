@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004455331177",
+    "project_id": "aplicativoventas-2a72d",
+    "storage_bucket": "aplicativoventas-2a72d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004455331177:android:c5cc9ef2cfaa8db76369f8",
+        "android_client_info": {
+          "package_name": "com.buiza.aplicativoventas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004455331177-rsjn8addtu4q4595o2989sr80itjn2mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1y6oyHCDWMhueC5yyB7q_aspiHgUyP3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004455331177-rsjn8addtu4q4595o2989sr80itjn2mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
